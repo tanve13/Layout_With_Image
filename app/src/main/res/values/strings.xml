@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Image Layout</string>
+    <string name="mark_attendance">Mark Attendance</string>
+    <string name="show_attendance">Show Attendance</string>
+    <string name="home_work">Home Work</string>
+    <string name="gallery">Gallery</string>
+    <string name="pay_fee">Pay Fee</string>
+    <string name="notice">Notice\n</string>
+    <string name="about">About</string>
+</resources>
